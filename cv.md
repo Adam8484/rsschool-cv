@@ -24,14 +24,23 @@ I have been interesting in computers and programming for many years . I don't ha
 * * * 
 ### Skills
 |Skill|Level|  
+
 |---:|---:|  
+
 |javascript| junior|   
+
 |C++| junior|   
+
 |Pascal| junior|  
+
 |HTML| junior|  
+
 |CSS|junior|  
+
 |PHP| junior|  
+
 |MS Office| regular|  
+
 * * *
 ### Code examples
 [GiTHub](https://github.com/Adam8484)  
