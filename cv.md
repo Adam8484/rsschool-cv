@@ -23,23 +23,21 @@
 I have been interesting in computers and programming for many years . I don't have professional programming experience. Coding has always been a pleasure activity for me. I've finished some courses and read books. I can say that i acquire needed knowledge from websites. Now my goal is to develop professionally in an international company and acquire new skills needed to be full stack webdeveloper.
 * * * 
 ### Skills
-|Skill|Level|  
+Skill|Level  
+-------------
+javascript| junior    
 
-|---:|---:|  
+C++| junior      
 
-|javascript| junior|   
+Pascal| junior     
 
-|C++| junior|   
+HTML| junior     
 
-|Pascal| junior|  
+CSS|junior     
 
-|HTML| junior|  
+PHP| junior   
 
-|CSS|junior|  
-
-|PHP| junior|  
-
-|MS Office| regular|  
+MS Office| regular    
 
 * * *
 ### Code examples
