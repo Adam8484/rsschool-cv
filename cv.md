@@ -24,7 +24,7 @@ I have been interesting in computers and programming for many years . I don't ha
 * * * 
 ### Skills
 Skill | Level
---- | ---
+--- | ---:
 javascript |  junior
 C++       |  junior
 Pascal    |  junior
